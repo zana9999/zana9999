@@ -25,13 +25,9 @@
 [**Personal Finance Tracker**](#) – Helps track personal expenses and budgets.  
 
 ---
-### When I’m not coding, you’ll find me:  
-🎵 Listening to music | 🎬 Watching movies & anime | 💻 Studying
-
----
 
 ### 🚀 What I’m up to
 - Exploring AI/ML projects  
 - Collaborating on fun and meaningful projects with students
-- Listening to Twilight Zone by Ariana Grande 
+- Exploring new music, movies & anime (Give me some recs!)
 ---
