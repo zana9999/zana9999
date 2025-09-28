@@ -37,6 +37,6 @@ When I’m not coding, you’ll find me:
 ---
 
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=zana9999&show_icons=true&theme=radical)
 
 ---
