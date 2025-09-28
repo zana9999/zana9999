@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**I’m Farzana, a 3rd-year CS student focused on software engineering, AI, and practical coding projects!**
+**I’m Farzana, a 3rd-year CS student @ York University focused on software engineering, AI, and practical coding projects!**
 
 When I’m not coding, you’ll find me:  
 🎵 Listening to music | 🎬 Watching movies & anime | 💻 Studying
@@ -9,9 +9,8 @@ When I’m not coding, you’ll find me:
 
 ### 🚀 What I’m up to
 - Exploring AI/ML projects  
-- Collaborating on fun and meaningful projects with students or open-source communities  
-
-
+- Collaborating on fun and meaningful projects with students
+- Listening to Twilight Zone by Ariana Grande 
 ---
 
 ### 🛠 Skills & Tools
