@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m Farzana, a 3rd-year CS student focused on software engineering, AI, and practical coding projects!
+**I’m Farzana, a 3rd-year CS student focused on software engineering, AI, and practical coding projects!**
 
 When I’m not coding, you’ll find me:  
 🎵 Listening to music | 🎬 Watching movies & anime | 💻 Studying
