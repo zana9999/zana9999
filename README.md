@@ -35,8 +35,3 @@ When I’m not coding, you’ll find me:
 [**Personal Finance Tracker**](#) – Helps track personal expenses and budgets.  
 
 ---
-
-### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=zana9999&show_icons=true&theme=radical)
-
----
