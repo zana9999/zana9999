@@ -21,8 +21,8 @@
 ---
 
 ### 🚀 Projects
-[**BookSystem**](#) – JavaFX project to manage book records efficiently.  
-[**Personal Finance Tracker**](#) – Helps track personal expenses and budgets.  
+[**BookSystem**](https://github.com/zana9999/BookSystem) – JavaFX project to manage book records efficiently.  
+[**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) – Helps track personal expenses and budgets.  
 
 ---
 
