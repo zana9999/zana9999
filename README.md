@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-### *** I’m Farzana, a 3rd-year CS student @ York University focused on software engineering, AI, and practical coding projects!**
+### ** I’m Farzana, a 3rd-year CS student @ York University focused on software engineering, AI, and practical coding projects!**
 
 ---
 
