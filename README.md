@@ -2,15 +2,6 @@
 
 **I’m Farzana, a 3rd-year CS student @ York University focused on software engineering, AI, and practical coding projects!**
 
-When I’m not coding, you’ll find me:  
-🎵 Listening to music | 🎬 Watching movies & anime | 💻 Studying
-
----
-
-### 🚀 What I’m up to
-- Exploring AI/ML projects  
-- Collaborating on fun and meaningful projects with students
-- Listening to Twilight Zone by Ariana Grande 
 ---
 
 ### 🛠 Skills & Tools
@@ -33,4 +24,13 @@ When I’m not coding, you’ll find me:
 [**BookSystem**](#) – JavaFX project to manage book records efficiently.  
 [**Personal Finance Tracker**](#) – Helps track personal expenses and budgets.  
 
+---
+When I’m not coding, you’ll find me:  
+🎵 Listening to music | 🎬 Watching movies & anime | 💻 Studying
+
+
+### 🚀 What I’m up to
+- Exploring AI/ML projects  
+- Collaborating on fun and meaningful projects with students
+- Listening to Twilight Zone by Ariana Grande 
 ---
