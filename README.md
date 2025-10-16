@@ -20,9 +20,10 @@
 ---
 
 ### 🚀 Projects
-[**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) – Helps track personal expenses and budgets.  
-[**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) - Predicts insurance charges based on demographic and health info.
-[**BookSystem**](https://github.com/zana9999/BookSystem) – JavaFX project to manage book records efficiently.  
+
+- [**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) 💰 – Track personal expenses and budgets effortlessly.
+- [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) 🏥 – Predicts insurance charges based on demographics and health info.
+- [**BookSystem**](https://github.com/zana9999/BookSystem) 📚 – JavaFX application to efficiently manage book records.
 
 
 ---
