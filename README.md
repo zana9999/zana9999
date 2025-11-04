@@ -21,6 +21,7 @@
 
 ### 🚀 Projects
 
+- [**Hackabot**](https://github.com/zana9999/HackaBot) – 🤖 Automated hackathon robot that aggregates and notifies upcoming events from MLH and Devpost.
 - [**Personal Finance Tracker**](https://github.com/zana9999/PersonalFinanceTrackerTrace) 💰 – Track personal expenses and budgets effortlessly.
 - [**Health Insurance Predictor**](https://github.com/zana9999/HealthInsurancePredictor) 🏥 – Predicts insurance charges based on demographics and health info.
 - [**BookSystem**](https://github.com/zana9999/BookSystem) 📚 – JavaFX application to efficiently manage book records.
